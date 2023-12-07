@@ -1,0 +1,11 @@
+*{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.properties_articles span{
+    font-weight: bold;
+    text-decoration: underline;
+}
