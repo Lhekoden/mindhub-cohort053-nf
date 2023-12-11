@@ -1,0 +1,29 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #43609d;
+    margin: 0px;
+}
+body{
+    margin-left: 5%;
+}
+h1{
+    padding: 20px;
+    width: 90%;
+    font-size: 35px;
+}
+nav{
+    height: 300px;
+    width: 90%;
+    background-image: url(../design1_image2.jpg);
+    background-size: cover;
+    font-size: 25px;
+    
+    right: 10%;
+    
+}
+.logo-main{
+    display: inline-block;
+}
+.div-main{
+    display: inline-block;
+}
