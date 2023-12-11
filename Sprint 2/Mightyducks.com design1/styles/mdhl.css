@@ -15,6 +15,7 @@ h1{
     height: 250px;
     padding: 20px;
     font-weight: bold;
+    text-decoration: double;
 }
 h2{
     background-image: url(../Logo\ Mighty\ ducks-01.png);
@@ -31,5 +32,11 @@ h2{
     background-color: black;  
 }
 .nav-div-1{
-    display: inline;
+    width: 25%;
+    display: inline-block;
+    text-align: start;
+}
+.nav-div-2{
+    width: 50%;
+    display: inline-block;
 }
